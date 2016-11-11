@@ -4,4 +4,4 @@ languageCode = "en-us"
 
 [Params]
   Author = "John Paz"
-  #disqusShortname = TechWriterNinja
+  disqusShortname = "johnsbookshelf"
