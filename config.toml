@@ -1,0 +1,7 @@
+baseurl = "https://johnapaz.github.io/bookshelf/"
+title = "John Paz's New Hugo Site"
+languageCode = "en-us"
+
+[Params]
+  Author = "John Paz"
+  #disqusShortname = TechWriterNinja
